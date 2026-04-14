@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a58f435b-865d-4d48-b4e5-010a2a5908cb",
+  "id_short": 662486,
+  "published_at": "2026-04-14T19:08:21Z",
+  "repo_name": "tech-ready-restaurants-in-idaho-us-sample-662486",
+  "sample_asset_name": "beamstation_662486_restaurants-us-id_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/662486/beamstation_662486_restaurants-us-id_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "12e5d790b4073d873d8c9c0807a7754bfcefef965185ef9a1ec807519a294d3e",
+  "sample_size_bytes": 19899,
+  "total_records": 7
+}
