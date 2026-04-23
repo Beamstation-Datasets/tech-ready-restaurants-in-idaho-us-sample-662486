@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 3 records |
 | Free sample size | 1 records (33.33%) |
-| Last export | 2026-04-15T08:30:12.561202+00:00 |
+| Last export | 2026-04-22T15:47:49.274567+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-idaho-us-sample-662486/releases/download/sample-latest/beamstation_662486_restaurants-us-id_SAMPLE_DIST.csv) |
 
 ## What is in this sample
